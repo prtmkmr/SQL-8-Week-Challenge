@@ -83,7 +83,3 @@ It has been an excellent learning experience, and I highly recommend it to anyon
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README template further to include specific details about your challenges, solutions, and any additional information you want to provide. Don't forget to replace the placeholders with your actual repository information and content. Good luck with your SQL 8 Week Challenge repository!
