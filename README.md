@@ -6,8 +6,6 @@ Certainly! Below is a template for a README file for your SQL 8 Week Challenge r
 
 # 8 Week SQL Challenge
 
-![SQL Logo](sql_logo.png) <!-- You can replace this with an appropriate image -->
-
 This repository contains my solutions to the challenges presented in the [8 Week SQL Challenge](https://8weeksqlchallenge.com/) by Data with Danny. Each week, I tackled a different SQL challenge that required me to use SQL to analyze data and solve real-world business problems.
 
 ## Table of Contents
@@ -23,8 +21,7 @@ This repository contains my solutions to the challenges presented in the [8 Week
 
 ## Introduction
 
-SQL is a powerful tool for data analysis, and this repository documents my journey through the 8 Week SQL Challenge. 
-Each challenge presented unique datasets and problem statements, allowing me to practice my SQL skills and learn new techniques.
+SQL is a powerful tool for data analysis, and this repository documents my journey through the 8 Week SQL Challenge. Each challenge presented unique datasets and problem statements, allowing me to practice my SQL skills and learn new techniques.
 
 ## Challenges
 
@@ -46,7 +43,7 @@ To explore my solutions and try the challenges yourself, you can follow these st
 1. Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/8-week-sql-challenge.git
+   git clone https://github.com/prtmkmr/8-week-sql-challenge.git
    ```
 
 2. Navigate to the specific challenge folder you're interested in (e.g., `week1-dannys-diner`).
